@@ -5,7 +5,8 @@
      - Note that this doesn't provide free channels - you have to find a source by yourself, or use the Freeview playlist + MYTV Broadcasting EPG
  - Freeview (https://github.com/weareblahs/freeview)
    - Rebuilding the MYTV Broadcasting experience through your IPTV client - all sources are from their legal sources, such as RTM Klik, Tonton and their official websites
-   
+     - Uses https://github.com/samleong123/tonton_dailymotion_php for Dailymotion sources
+     - Uses https://github.com/v-t-e-r/Umbrella for RTM Klik and others
 ## Currently working
  - Far Far Away Idol (https://github.com/weareblahs/FarFarAwayIdol)
    - Shrek 2's "Far Far Away Idol" extra through your browser (HTML5 / JS / TypeScript)
