@@ -13,3 +13,12 @@
      - Needs Shrek 2 DVD (2004 release) to work
  - Malaysia Radio Stations (SOON, https://github.com/weareblahs/myradio)
    - Listen to radio stations through any IPTV client / VLC Media Player (sources are from their official AAC sources)
+
+## Deprecated, or something like that?
+ - Xtream Codes (Username / Password) to Playlist URL converter
+   - Simple batch script to convert typical XC format playlist from Username / Password to full playlist link
+ - AutoExplode
+   - Backup of my previous Sourceforge project
+   - "click-to-run" style shutdown shortcuts through EXE files
+ - FART Builds
+   - Builds for FART (Find and Replace Text) - As the repository is not updated this repository will be in deprecated category until it updates
