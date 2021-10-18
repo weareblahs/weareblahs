@@ -4,6 +4,7 @@
    - EPG collected from Malaysian TV Providers from their official websites / APIs through WebGrab+Plus - Generated every 2 Days manually
      - EPG Providers including Astro, unifi TV (In order to increase speed, it uses some sources from Astro), MYTV Broadcasting (a mix of Astro / RTM sources), RTM Klik
      - Note that this doesn't provide free channels - you have to find a source by yourself, or use the Freeview playlist + MYTV Broadcasting EPG
+   - All generated in XMLTV format - can be viewed on XMLTV viewers or use it with IPTV clients such as TiviMate, OTT Navigator and other apps
  - Freeview (https://github.com/weareblahs/freeview)
    - Rebuilding the MYTV Broadcasting experience through your IPTV client - all sources are from their legal sources, such as RTM Klik, Tonton and their official websites
      - Uses https://github.com/samleong123/tonton_dailymotion_php for Dailymotion sources
