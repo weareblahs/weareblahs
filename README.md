@@ -1,4 +1,5 @@
-# You need a list of my projects that are currently running / working at? Here you go:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weareblahs&theme=monokai)
+# Current projects
 ## Active
  - EPG (https://github.com/weareblahs/epg)
    - EPG collected from Malaysian TV Providers from their official websites / APIs through WebGrab+Plus - Generated every 2 Days manually
