@@ -12,6 +12,8 @@
      - Uses https://github.com/v-t-e-r/Umbrella for RTM Klik and others
  - WSATools (https://github.com/weareblahs/wsatools)
    - Toolbox for Windows Subsystem for Android by only using command line-based softwares
+ - TheMiscPCToolbox (https://github.com/weareblahs/TheMiscPCToolbox)
+   - "Double-click-to-run" collection of basic Windows and Linux scripts
 ## Currently working
  - Far Far Away Idol (https://github.com/weareblahs/FarFarAwayIdol)
    - Shrek 2's "Far Far Away Idol" extra through your browser (HTML5 / JS / TypeScript)
