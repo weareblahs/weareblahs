@@ -9,8 +9,8 @@
    - Rebuilding the MYTV Broadcasting experience through your IPTV client - all sources are from their legal sources, such as RTM Klik, Tonton and their official websites
      - Uses https://github.com/samleong123/tonton_dailymotion_php for Dailymotion sources
      - Uses https://github.com/v-t-e-r/Umbrella for RTM Klik and others
- - WSATools (https://github.com/weareblahs/wsatools)
-   - Toolbox for Windows Subsystem for Android by only using command line-based softwares. Runs through batch file
+ - WSAUtilities (https://github.com/weareblahs/WSAUtilities)
+   - Toolbox for Windows Subsystem for Android by only using command line-based softwares. Runs through batch files. Formerly WSAtools.
  - TheMiscPCToolbox (https://github.com/weareblahs/TheMiscPCToolbox)
    - "Double-click-to-run" collection of basic Windows and Linux scripts
 ## Projects on hold
