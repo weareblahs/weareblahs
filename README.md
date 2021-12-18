@@ -45,4 +45,4 @@ And yes, I'm a person who didn't uses too much social networking apps for chatti
 Twitter: ThisIsTYX  
 Email: tanyuxuan2005@gmail.com  
 ### Some people might be asking me about why I'm 85% offline in Telegram. Here's why:
-I think Telegram distracts me from my work stuffs and some parts of my lifestyle, so from now on I decided to just view Telegram for some important information (you know, such as CPRC KKM and other coronavirus status-related stuffs). I'll be online for 1 to 2 times every week. (asking for that username thing? it's my username + v2)
+I think Telegram distracts me from some parts of my own lifestyle, so from now on I decided to just view Telegram for some important information (you know, such as CPRC KKM and other coronavirus status-related stuffs). I'll be online for 1 to 2 times every week. (asking for that username thing? it's my username + v2)
