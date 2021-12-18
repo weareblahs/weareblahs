@@ -35,4 +35,6 @@
 
 
 ### Before you asked me why i'm not online in Telegram most of the time
-don't know man, telegram just distracts me at some times for some reason - i just check there for some important stuffs 1-2 time every week
+don't know man, telegram just distracts me at some times for some reason - i just check there for some important stuffs 1-2 time every week  
+  
+yes, even notifications are turned off
