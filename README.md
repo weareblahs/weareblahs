@@ -20,6 +20,8 @@
 ## Deprecated projects (no longer developing, but still kept on original repositories, mostly softwares)
  - FART Builds
    - Builds for FART (Find and Replace Text) - As the repository is not updated this repository will be in deprecated category until it updates
+ - TheCommandLineScanner
+   - CLI-based software to scan through WIA
 ## Deprecated projects (deleted and archived as zip files on weareblahs/weareblahs, except for dummy / idle projects with less information)
 - TheMiscPCToolbox (click-to-run batch scripts)
 - epg-icons (icons originally used with weareblahs/epg)
