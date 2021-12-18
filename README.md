@@ -20,13 +20,14 @@
 
 ## Deprecated projects (no longer developing)
  - Xtream Codes (Username / Password) to Playlist URL converter
-   - Simple batch script to convert typical XC format playlist from Username / Password to full playlist link
  - AutoExplode
    - Backup of my previous Sourceforge project
    - "click-to-run" style shutdown shortcuts through EXE files
  - FART Builds
    - Builds for FART (Find and Replace Text) - As the repository is not updated this repository will be in deprecated category until it updates
 
+### More information
+"No longer active" repositories will be deleted and archived under https://github.com/weareblahs/weareblahs.
 ## Backends for other repos
  - YTTestLabs
    - Grabs YouTube stream from Bernama for the Freeview playlist. Based on https://github.com/benmoose39/YouTube_to_m3u.
