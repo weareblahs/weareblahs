@@ -26,15 +26,15 @@
 ## Deprecated projects (deleted and archived as zip files on weareblahs/weareblahs)
 - TheMiscPCToolbox
 - epg-icons
-- epg-old
-- is-there-mco
-- playtvdata
-- sooka-free-channels
-- suria_ytlm
-- unifi-tv
-- unifitv-proxy
-- univod-guide
-- xtream-to-url
+- epg-old (original EPG repository)
+- is-there-mco (stopped due to covidnow.moh.gov.my)
+- playtvdata (temp data for unifi TV EPG)
+- sooka-free-channels (Free channels on sooka.my through m3u8)
+- suria_ytlm (Suria FM YouTube mirror)
+- unifi-tv (unifi TV on IPTV clients, stopped due to legal concerns on this project)
+- unifitv-proxy (web server backend for unifi-tv)
+- univod-guide (unifi TV VOD EPG test, used with unifi-tv)
+- xtream-to-url (converts Xtream codes username / password to URL)
 ## Backends for other repos
  - YTTestLabs
    - Grabs YouTube stream from Bernama for the Freeview playlist. Based on https://github.com/benmoose39/YouTube_to_m3u.
