@@ -18,12 +18,9 @@
    - Shrek 2's "Far Far Away Idol" extra through your browser (HTML5 / JS / TypeScript)
      - Needs Shrek 2 DVD (2004 release) to work
 ## Deprecated projects (no longer developing, but still kept on original repositories, mostly softwares)
- - AutoExplode
-   - Backup of my previous Sourceforge project
-   - "click-to-run" style shutdown shortcuts through EXE files
  - FART Builds
    - Builds for FART (Find and Replace Text) - As the repository is not updated this repository will be in deprecated category until it updates
-## Deprecated projects (deleted and archived as zip files on weareblahs/weareblahs)
+## Deprecated projects (deleted and archived as zip files on weareblahs/weareblahs, except for dummy / idle projects with less information)
 - TheMiscPCToolbox (click-to-run batch scripts)
 - epg-icons (icons originally used with weareblahs/epg)
 - epg-old (original EPG repository)
@@ -35,6 +32,8 @@
 - unifitv-proxy (web server backend for unifi-tv)
 - univod-guide (unifi TV VOD EPG test, used with unifi-tv)
 - xtream-to-url (converts Xtream codes username / password to URL)
+- AutoExplode (shutdown tool, code originally on [SourceForge](https://sourceforge.net/projects/autoexplode/))
+  - the repo is deleted and won't be backed up - can see https://sourceforge.net/projects/autoexplode/ for setup files
 ## Backends for other repos
  - YTTestLabs
    - Grabs YouTube stream from Bernama for the Freeview playlist. Based on https://github.com/benmoose39/YouTube_to_m3u.
