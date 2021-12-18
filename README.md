@@ -24,8 +24,8 @@
  - FART Builds
    - Builds for FART (Find and Replace Text) - As the repository is not updated this repository will be in deprecated category until it updates
 ## Deprecated projects (deleted and archived as zip files on weareblahs/weareblahs)
-- TheMiscPCToolbox
-- epg-icons
+- TheMiscPCToolbox (click-to-run batch scripts)
+- epg-icons (icons originally used with weareblahs/epg)
 - epg-old (original EPG repository)
 - is-there-mco (stopped due to covidnow.moh.gov.my)
 - playtvdata (temp data for unifi TV EPG)
