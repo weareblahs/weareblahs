@@ -1,5 +1,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weareblahs&theme=monokai)
-# Current projects
+# List of projects
 ## Active
  - EPG (https://github.com/weareblahs/epg)
    - XMLTV data for EPG guide on Malaysia TV providers, grabbed from their official websites using WebGrab+Plus. Updated every 2 days.
@@ -39,7 +39,10 @@
 ## Backends for other repos
  - YTTestLabs
    - Grabs YouTube stream from Bernama for the Freeview playlist. Based on https://github.com/benmoose39/YouTube_to_m3u.
-### Before you asked me why i'm not online in Telegram most of the time
-don't know man, telegram just distracts me at some times for some reason - i just check there for some important stuffs 1-2 time every week  
-  
-yes, even notifications are turned off
+
+# Contact me?
+And yes, I'm a person who didn't uses too much social networking apps for chatting. There you go:
+Twitter: ThisIsTYX
+Email: tanyuxuan2005@gmail.com
+## Some people might be asking me about why I'm 85% offline in Telegram. Here's why:
+I think Telegram distracts me from my work stuffs and other stuffs, so I decided to just look for messages on Telegram for about 1 to 2 times a week.
