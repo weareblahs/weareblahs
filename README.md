@@ -17,22 +17,27 @@
  - Far Far Away Idol (https://github.com/weareblahs/FarFarAwayIdol)
    - Shrek 2's "Far Far Away Idol" extra through your browser (HTML5 / JS / TypeScript)
      - Needs Shrek 2 DVD (2004 release) to work
-
-## Deprecated projects (no longer developing)
- - Xtream Codes (Username / Password) to Playlist URL converter
+## Deprecated projects (no longer developing, but still kept on original repositories, mostly softwares)
  - AutoExplode
    - Backup of my previous Sourceforge project
    - "click-to-run" style shutdown shortcuts through EXE files
  - FART Builds
    - Builds for FART (Find and Replace Text) - As the repository is not updated this repository will be in deprecated category until it updates
-
-### More information
-"No longer active" repositories will be deleted and archived under https://github.com/weareblahs/weareblahs.
+## Deprecated projects (deleted and archived as zip files on weareblahs/weareblahs)
+- TheMiscPCToolbox
+- epg-icons
+- epg-old
+- is-there-mco
+- playtvdata
+- sooka-free-channels
+- suria_ytlm
+- unifi-tv
+- unifitv-proxy
+- univod-guide
+- xtream-to-url
 ## Backends for other repos
  - YTTestLabs
    - Grabs YouTube stream from Bernama for the Freeview playlist. Based on https://github.com/benmoose39/YouTube_to_m3u.
-
-
 ### Before you asked me why i'm not online in Telegram most of the time
 don't know man, telegram just distracts me at some times for some reason - i just check there for some important stuffs 1-2 time every week  
   
