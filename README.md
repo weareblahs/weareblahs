@@ -32,3 +32,7 @@
 ## Backends for other repos
  - YTTestLabs
    - Grabs YouTube stream from Bernama for the Freeview playlist. Based on https://github.com/benmoose39/YouTube_to_m3u.
+
+
+### Before you asked me why i'm not online in Telegram most of the time
+Actually, I will be online for 2-3 times a week just to look at some stuffs. To ask anything about my projects, please just ask me directly at the project itself.
