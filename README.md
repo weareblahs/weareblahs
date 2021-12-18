@@ -17,8 +17,6 @@
  - Far Far Away Idol (https://github.com/weareblahs/FarFarAwayIdol)
    - Shrek 2's "Far Far Away Idol" extra through your browser (HTML5 / JS / TypeScript)
      - Needs Shrek 2 DVD (2004 release) to work
- - Malaysia Radio Stations (SOON, https://github.com/weareblahs/myradio)
-   - Listen to radio stations through any IPTV client / VLC Media Player (sources are from their official AAC sources)
 
 ## Deprecated projects (no longer developing)
  - Xtream Codes (Username / Password) to Playlist URL converter
