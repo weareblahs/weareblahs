@@ -35,4 +35,4 @@
 
 
 ### Before you asked me why i'm not online in Telegram most of the time
-Actually, I will be online for 2-3 times a week just to look at some stuffs. To ask anything about my projects, please just ask me directly at the project itself.
+don't know man, telegram just distracts me at some times for some reason - i just check there for some important stuffs 1-2 time every week
