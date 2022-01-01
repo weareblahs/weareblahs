@@ -1,6 +1,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weareblahs&theme=monokai)
 # Uhh, Hi?
-I'm Tan, the guy who made WSAUtilities and other stuffs that you might be interested at. Actually, I'm writing in Batch (during programming), some HTML and CSS programming (for websites) and Elementor / Wordpress editing (for another website). Here's a list of my projects, classified:
+I'm Tan, the guy who made WSAUtilities and other stuffs that you might be interested at. Actually, I'm writing in Batch (during programming), some HTML and CSS programming (for websites) and Elementor / Wordpress editing (for another website).   
+  
+(Yeah, I also made YouTube videos that isn't regarding stuffs about programming, but other stuffs, maybe take a look at it [here](https://www.youtube.com/c/OogaChakaOogaOoga)?)  
+  
+Here's a list of my projects, classified as categories:
 # List of projects
 ## Scripts for apps / toolboxes / builds
  - WSAUtilities (https://github.com/weareblahs/WSAUtilities)
