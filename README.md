@@ -1,6 +1,13 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weareblahs&theme=monokai)
+# Uhh, Hi?
+I'm Tan, the guy who made WSAUtilities and other stuffs that you might be interested at. Also known for that one XMLTV data for Malaysian TV stations. Actually, I'm writing in Batch (during programming), some HTML and CSS programming (for websites) and Elementor / Wordpress editing (for another website). Here's a list of my projects, classified:
 # List of projects
-## Active
+## Scripts for apps / toolboxes / builds
+ - WSAUtilities (https://github.com/weareblahs/WSAUtilities)
+   - Toolbox for Windows Subsystem for Android by only using command line-based softwares. Runs through batch files. Formerly WSAtools.
+ - Batch Multimedia Overlay Adder (https://github.com/weareblahs/BMOA)
+   - Simple batch image processor for overlaying images through FFMPEG
+## TV-related
  - EPG (https://github.com/weareblahs/epg)
    - XMLTV data for EPG guide on Malaysia TV providers, grabbed from their official websites using WebGrab+Plus. Updated every 2 days.
      - EPG Providers including Astro, unifi TV (In order to increase speed, it uses some sources from Astro), MYTV Broadcasting (a mix of Astro / RTM sources), RTM Klik
@@ -9,17 +16,11 @@
    - Rebuilding the MYTV Broadcasting experience through your IPTV client - all sources are from their legal sources, such as RTM Klik, Tonton and their official websites
      - Uses https://github.com/samleong123/tonton_dailymotion_php for Dailymotion sources
      - Uses https://github.com/v-t-e-r/Umbrella for RTM Klik and others
- - WSAUtilities (https://github.com/weareblahs/WSAUtilities)
-   - Toolbox for Windows Subsystem for Android by only using command line-based softwares. Runs through batch files. Formerly WSAtools.
- - Batch Multimedia Overlay Adder (https://github.com/weareblahs/BMOA)
-   - Simple batch image processor for overlaying images through FFMPEG
-## Projects on hold
- - Far Far Away Idol (https://github.com/weareblahs/FarFarAwayIdol)
+## Just for fun
+ - Far Far Away Idol (https://github.com/weareblahs/FarFarAwayIdol) [On hold]
    - Shrek 2's "Far Far Away Idol" extra through your browser (HTML5 / JS / TypeScript)
      - Needs Shrek 2 DVD (2004 release) to work
 ## Deprecated projects (no longer developing, but still kept on original repositories, mostly softwares)
- - FART Builds
-   - Builds for FART (Find and Replace Text) - As the repository is not updated this repository will be in deprecated category until it updates
  - TheCommandLineScanner
    - CLI-based software to scan through WIA
 ## Deprecated projects (deleted and archived as zip files on weareblahs/weareblahs, except for dummy / idle projects with less information)
