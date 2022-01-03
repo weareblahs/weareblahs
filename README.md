@@ -14,16 +14,11 @@ Here's a list of my projects, classified as categories:
 ## TV-related
  - EPG (https://github.com/weareblahs/epg)
    - XMLTV data for EPG guide on Malaysia TV providers, grabbed from their official websites using WebGrab+Plus. Updated every 2 days.
-     - EPG Providers including Astro, unifi TV (In order to increase speed, it uses some sources from Astro), MYTV Broadcasting (a mix of Astro / RTM sources), RTM Klik
-     - Note that this doesn't provide free channels - you have to find a source by yourself, or use the Freeview playlist + MYTV Broadcasting EPG
  - Freeview (https://github.com/weareblahs/freeview)
    - Rebuilding the MYTV Broadcasting experience through your IPTV client - all sources are from their legal sources, such as RTM Klik, Tonton and their official websites
-     - Uses https://github.com/samleong123/tonton_dailymotion_php for Dailymotion sources
-     - Uses https://github.com/v-t-e-r/Umbrella for RTM Klik and others
 ## Just for fun
  - Far Far Away Idol (https://github.com/weareblahs/FarFarAwayIdol) [On hold]
    - Shrek 2's "Far Far Away Idol" extra through your browser (HTML5 / JS / TypeScript)
-     - Needs Shrek 2 DVD (2004 release) to work
 ## Deprecated projects (no longer developing, but still kept on original repositories, mostly softwares)
  - TheCommandLineScanner
    - CLI-based software to scan through WIA
