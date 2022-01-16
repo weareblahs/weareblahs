@@ -44,4 +44,4 @@ Here's a list of my projects, classified as categories:
 And yes, I'm a person who didn't uses too much social networking apps for chatting. There you go:  
 Twitter: ThisIsTYX  
 Email: tanyuxuan2005@gmail.com  
-Telegram: Account deleted due to personal reasons - maybe I'll decide to come back at sometime, I don't know when.
+Telegram: Account deleted due to some personal reasons - maybe I'll decide to come back at sometime, I don't know when. Want to contact me? Then see contact options above.
