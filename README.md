@@ -44,5 +44,4 @@ Here's a list of my projects, classified as categories:
 And yes, I'm a person who didn't uses too much social networking apps for chatting. There you go:  
 Twitter: ThisIsTYX  
 Email: tanyuxuan2005@gmail.com  
-### Some people might be asking me about why I'm 85% offline in Telegram. Here's why:
-I think Telegram distracts me from some parts of my own lifestyle, so from now on I decided to just view Telegram for some important information (you know, such as CPRC KKM and other coronavirus status-related stuffs). I'll be online for 1 to 2 times every week. (asking for that username thing? it's my username + v2)
+Telegram: Account deleted due to personal reasons - maybe I'll decide to come back at sometime, I don't know when.
