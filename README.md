@@ -11,6 +11,9 @@ Here's a list of my projects, classified as categories:
    - Toolbox for Windows Subsystem for Android by only using command line-based softwares. Runs through batch files. Formerly WSAtools.
  - Batch Multimedia Overlay Adder (https://github.com/weareblahs/BMOA)
    - Simple batch image processor for overlaying images through FFMPEG
+## Web-based projects
+ - "How many COVID-19 cases in Malaysia today?" (https://github.com/weareblahs/covidcases)
+   - Straightforward page that shows only the COVID-19 cases in Malaysia. Updated every hour through GitHub Actions.
 ## TV-related
  - EPG (https://github.com/weareblahs/epg)
    - XMLTV data for EPG guide on Malaysia TV providers, grabbed from their official websites using WebGrab+Plus. Updated every 2 days.
