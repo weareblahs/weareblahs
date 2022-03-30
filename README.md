@@ -13,7 +13,7 @@ Here's a list of my projects, classified as categories:
    - Simple batch image processor for overlaying images through FFMPEG
 ## Web-based projects
  - "How many COVID-19 cases in Malaysia today?" (https://github.com/weareblahs/covidcases)
-   - Straightforward page that shows only the COVID-19 cases in Malaysia. Updated every hour through GitHub Actions.
+   - Straightforward page that shows only the COVID-19 cases in Malaysia. Updated every hour through GitHub Actions. Twitter bot running on [@MYCOVIDCasesBot](https://twitter.com/MYCOVIDCasesBot).
 ## TV-related
  - EPG (https://github.com/weareblahs/epg)
    - XMLTV data for EPG guide on Malaysia TV providers, grabbed from their official websites using WebGrab+Plus. Updated every 2 days.
@@ -22,6 +22,8 @@ Here's a list of my projects, classified as categories:
 ## Just for fun
  - Far Far Away Idol (https://github.com/weareblahs/FarFarAwayIdol) [On hold]
    - Shrek 2's "Far Far Away Idol" extra through your browser (HTML5 / JS / TypeScript)
+ - Guess The Random Wikipedia Article (https://github.com/weareblahs/GuessTheRandomWikipediaArticle) [On hold]
+   - Get Wikipedia article from `Special:Random` and lets user guess. Requires Internet connection.
 ## Deprecated projects (no longer developing, but still kept on original repositories, mostly softwares)
  - TheCommandLineScanner
    - CLI-based software to scan through WIA
