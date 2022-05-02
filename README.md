@@ -24,7 +24,7 @@ Here's a list of my projects, classified as categories:
 ## Just for fun
  - Far Far Away Idol (https://github.com/weareblahs/FarFarAwayIdol) [On hold]
    - Shrek 2's "Far Far Away Idol" extra through your browser (HTML5 / JS / TypeScript)
- -  (https://github.com/weareblahs/scripts4fun)
+ - Scripts for Fun (https://github.com/weareblahs/scripts4fun)
    - Random scripts that I wrote just for fun. ~~Use it at your own risk~~
 ## Deprecated projects (no longer developing, but still kept on original repositories, mostly softwares)
  - TheCommandLineScanner
