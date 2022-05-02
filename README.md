@@ -24,8 +24,8 @@ Here's a list of my projects, classified as categories:
 ## Just for fun
  - Far Far Away Idol (https://github.com/weareblahs/FarFarAwayIdol) [On hold]
    - Shrek 2's "Far Far Away Idol" extra through your browser (HTML5 / JS / TypeScript)
- - Guess The Random Wikipedia Article (https://github.com/weareblahs/GuessTheRandomWikipediaArticle) [On hold]
-   - Get Wikipedia article from `Special:Random` and lets user guess. Requires Internet connection.
+ -  (https://github.com/weareblahs/scripts4fun)
+   - Random scripts that I wrote just for fun. ~~Use it at your own risk~~
 ## Deprecated projects (no longer developing, but still kept on original repositories, mostly softwares)
  - TheCommandLineScanner
    - CLI-based software to scan through WIA
@@ -43,6 +43,7 @@ Here's a list of my projects, classified as categories:
 - xtream-to-url (converts Xtream codes username / password to URL)
 - AutoExplode (shutdown tool, code originally on [SourceForge](https://sourceforge.net/projects/autoexplode/))
   - the repo is deleted and won't be backed up - can see https://sourceforge.net/projects/autoexplode/ for setup files
+- Guess The Random Wikipedia Article (moved to `scripts4fun`)
 ## Backends for other repos
  - YTTestLabs
    - Grabs YouTube stream from Bernama for the Freeview playlist. Based on https://github.com/benmoose39/YouTube_to_m3u.
