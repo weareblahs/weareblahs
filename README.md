@@ -26,6 +26,8 @@ Here's a list of my projects, classified as categories:
    - Shrek 2's "Far Far Away Idol" extra through your browser (HTML5 / JS / TypeScript)
  - Scripts for Fun (https://github.com/weareblahs/scripts4fun)
    - Random scripts that I wrote just for fun. ~~Use it at your own risk~~
+ - BLÅHAJ? (https://github.com/weareblahs/ikeasharkcheck)
+   - Checks BLÅHAJ stock in Malaysia.
 ## Deprecated projects (no longer developing, but still kept on original repositories, mostly softwares)
  - TheCommandLineScanner
    - CLI-based software to scan through WIA
@@ -44,12 +46,10 @@ Here's a list of my projects, classified as categories:
 - AutoExplode (shutdown tool, code originally on [SourceForge](https://sourceforge.net/projects/autoexplode/))
   - the repo is deleted and won't be backed up - can see https://sourceforge.net/projects/autoexplode/ for setup files
 - Guess The Random Wikipedia Article (moved to `scripts4fun`)
-## Backends for other repos
- - YTTestLabs
-   - Grabs YouTube stream from Bernama for the Freeview playlist. Based on https://github.com/benmoose39/YouTube_to_m3u.
+## Deleted projects
+ - YTTestLabs (Bernama TV offline. Planning to use `free.fullspeed.tv` for other YouTube-sourced streams on the `freeview` playlist)
 
 # Contact me?
 And yes, I'm a person who didn't uses too much social networking apps for chatting. There you go:  
 Twitter: ThisIsTYX  
-Email: tanyuxuan2005@gmail.com  
-Telegram: Account deleted due to some personal reasons - maybe I'll decide to come back at sometime, I don't know when. Want to contact me? Then see contact options above.
+Email: tanyuxuan2005@gmail.com
