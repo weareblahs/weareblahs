@@ -1,6 +1,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weareblahs&theme=monokai)
 ### For those who are wondering why there's no commits except for auto commits done by `yttestlabs`, `covidcases` and EPG updates
-Currently studying for exams. Might be back at 15th of April.
+Currently studying for exams. Might be back at 22th of July.
 # Uhh, Hi?
 I'm Tan, the guy who made WSAUtilities and other stuffs that you might be interested at. Actually, I'm writing in Batch (during programming), some HTML and CSS programming (for websites) and Elementor / Wordpress editing (for another website). ~~This guy just used batch scripts for everything, and it worked pretty well?~~  
   
