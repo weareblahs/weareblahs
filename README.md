@@ -21,6 +21,10 @@ Here's a list of my projects, classified as categories:
    - XMLTV data for EPG guide on Malaysia TV providers, grabbed from their official websites using WebGrab+Plus. Updated every 2 days.
  - Freeview (https://github.com/weareblahs/freeview)
    - Rebuilding the MYTV Broadcasting experience through your IPTV client - all sources are from their legal sources, such as RTM Klik, Tonton and their official websites
+## Ripping-related
+ - RipThatThing (WIP)
+   - Rip your DVDs, Blu-Ray Discs and Ultra HD Blu-Ray with MakeMKV through a simple Python-based command line wizard. Note that you'll do the MakeMKV installation by yourself.
+
 ## Just for fun
  - Far Far Away Idol (https://github.com/weareblahs/FarFarAwayIdol) [On hold]
    - Shrek 2's "Far Far Away Idol" extra through your browser (HTML5 / JS / TypeScript)
