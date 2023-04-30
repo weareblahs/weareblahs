@@ -17,8 +17,6 @@ Here's a list of my projects, classified as categories:
  - "How many COVID-19 cases in Malaysia today?" (https://github.com/weareblahs/covidcases)
    - Straightforward page that shows only the COVID-19 cases in Malaysia. Updated every hour through GitHub Actions. Twitter bot running on [@MYCOVIDCasesBot](https://twitter.com/MYCOVIDCasesBot).
 ## TV-related
- - EPG (https://github.com/weareblahs/epg)
-   - XMLTV data for EPG guide on Malaysia TV providers, grabbed from their official websites using WebGrab+Plus. Updated every 2 days.
  - Freeview (https://github.com/weareblahs/freeview)
    - Rebuilding the MYTV Broadcasting experience through your IPTV client - all sources are from their legal sources, such as RTM Klik, Tonton and their official websites
 
@@ -27,8 +25,8 @@ Here's a list of my projects, classified as categories:
    - Shrek 2's "Far Far Away Idol" extra through your browser (HTML5 / JS / TypeScript)
  - Scripts for Fun (https://github.com/weareblahs/scripts4fun)
    - Random scripts that I wrote just for fun. ~~Use it at your own risk~~
- - BLÅHAJ? (https://github.com/weareblahs/ikeasharkcheck)
-   - Checks BLÅHAJ stock in Malaysia.
+ - ikeatoys (https://github.com/weareblahs/ikeatoys)
+   - Stock checker for IKEA Toys in Malaysia. Originally 
 ## Deprecated projects (no longer developing, but still kept on original repositories, mostly softwares)
  - TheCommandLineScanner
    - CLI-based software to scan through WIA
@@ -46,6 +44,8 @@ Here's a list of my projects, classified as categories:
 - xtream-to-url (converts Xtream codes username / password to URL)
 - AutoExplode (shutdown tool, code originally on [SourceForge](https://sourceforge.net/projects/autoexplode/))
   - the repo is deleted and won't be backed up - can see https://sourceforge.net/projects/autoexplode/ for setup files
+- EPG (https://github.com/weareblahs/epg)
+  - repo is now archived
 - Guess The Random Wikipedia Article (moved to `scripts4fun`)
 ## Deleted projects
  - YTTestLabs (Bernama TV offline. Planning to use `free.fullspeed.tv` for other YouTube-sourced streams on the `freeview` playlist)
