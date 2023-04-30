@@ -13,6 +13,8 @@ Here's a list of my projects, classified as categories:
    - Toolbox for Windows Subsystem for Android by only using command line-based softwares. Runs through batch files. Formerly WSAtools.
  - Batch Multimedia Overlay Adder (https://github.com/weareblahs/BMOA)
    - Simple batch image processor for overlaying images through FFMPEG
+ - FART builds (https://github.com/weareblahs/fart-builds)
+   - Windows executable for ``lionello/fart-it`` built on Visual Studio
 ## Web-based projects
  - "How many COVID-19 cases in Malaysia today?" (https://github.com/weareblahs/covidcases)
    - Straightforward page that shows only the COVID-19 cases in Malaysia. Updated every hour through GitHub Actions. Twitter bot running on [@MYCOVIDCasesBot](https://twitter.com/MYCOVIDCasesBot).
@@ -26,7 +28,7 @@ Here's a list of my projects, classified as categories:
  - Scripts for Fun (https://github.com/weareblahs/scripts4fun)
    - Random scripts that I wrote just for fun. ~~Use it at your own risk~~
  - ikeatoys (https://github.com/weareblahs/ikeatoys)
-   - Stock checker for IKEA Toys in Malaysia. Originally 
+   - Stock checker for IKEA Toys in Malaysia. Originally ``BLÅHAJ?``.
 ## Deprecated projects (no longer developing, but still kept on original repositories, mostly softwares)
  - TheCommandLineScanner
    - CLI-based software to scan through WIA
