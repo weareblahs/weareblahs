@@ -16,7 +16,7 @@ Here's a list of my projects, classified as categories:
 ## Just for fun
  - Scripts for Fun (https://github.com/weareblahs/scripts4fun)
    - Random scripts that I wrote just for fun. ~~Use it at your own risk~~
-   - Do note that after each script is made, I just put it there and no changes will be made. ~~I am not responsible for any ~~
+   - Do note that after each script is made, I just put it there and no changes will be made. ~~I am not responsible for any damages or unknown instabilities happening to your computer, however the only thing I know is that these code is made under a virus-free environment~~
  - ikeatoys (https://github.com/weareblahs/ikeatoys)
    - Stock checker for IKEA Toys in Malaysia. Originally ``BLÅHAJ?``.
  - Freeview (https://github.com/weareblahs/freeview)
