@@ -21,6 +21,9 @@ Here's a list of my projects, classified as categories:
    - Stock checker for IKEA Toys in Malaysia. Originally ``BLÅHAJ?``.
  - Freeview (https://github.com/weareblahs/freeview)
    - Rebuilding the MYTV Broadcasting experience on your smart TV
+## Other
+ - Faster Intel Graphics Driver Downloads
+   - Downloads the latest drivers for Intel Graphics with a download accerlator, such as aria2
 
 ## Deprecated and on hold projects (no longer developing or paused development, but still kept on original repositories)
  - Far Far Away Idol (https://github.com/weareblahs/FarFarAwayIdol) [On hold]
