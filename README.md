@@ -12,6 +12,10 @@ Here's a list of my projects, classified as categories:
 ## Web-based projects
  - "How many COVID-19 cases in Malaysia today?" (https://github.com/weareblahs/covidcases)
  - Straightforward page that shows only the COVID-19 cases in Malaysia. Updated through GitHub Actions, including daily auto static page updates and social media updates on Twitter/X ([@MYCOVIDCasesBot](https://twitter.com/MYCOVIDCasesBot)) and Mastodon ([@myccbot@botsin.space](https://botsin.space/@myccbot), data incomplete)
+ - Movie Ticketing System (https://github.com/weareblahs/PHPProject)
+   - Originally a school project, this is a PHP-based online movie ticketing system with QR validation and management system
+ - "The weird world of physical home entertainment: an interactive audio-visual experience" (also known as that time before everyone switches to Netflix)" (https://github.com/weareblahs/whyshouldwebuythegolddisc)
+   - (also) originally for a school project, this is an interactive article about physical home entertainment / home video
 
 ## Just for fun
  - Scripts for Fun (https://github.com/weareblahs/scripts4fun)
@@ -22,8 +26,10 @@ Here's a list of my projects, classified as categories:
  - Freeview (https://github.com/weareblahs/freeview)
    - Rebuilding the MYTV Broadcasting experience on your smart TV
 ## Other
- - Faster Intel Graphics Driver Downloads
+ - Faster Intel Graphics Driver Downloads (https://github.com/weareblahs/figdd)
    - Downloads the latest drivers for Intel Graphics with a download accerlator, such as aria2
+ - "My Computer Can't Sleep!" (https://github.com/weareblahs/MCCS)
+   - Checks what process is preventing your computer from sleeping
 
 ## Deprecated and on hold projects (no longer developing or paused development, but still kept on original repositories)
  - Far Far Away Idol (https://github.com/weareblahs/FarFarAwayIdol) [On hold]
