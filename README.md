@@ -16,6 +16,8 @@ Here's a list of my projects, classified as categories:
    - Originally a school project, this is a PHP-based online movie ticketing system with QR validation and management system
  - "The weird world of physical home entertainment: an interactive audio-visual experience" (also known as that time before everyone switches to Netflix)" (https://github.com/weareblahs/whyshouldwebuythegolddisc)
    - (also) originally for a school project, this is an interactive article about physical home entertainment / home video
+ - Untitled Music Streaming Thing (https://github.com/weareblahs/UntitledMusicStreamingThing)
+   - Also a school project, this is a music player that plays music from Spotify and your own files uploaded to a local server
 
 ## Just for fun
  - Scripts for Fun (https://github.com/weareblahs/scripts4fun)
