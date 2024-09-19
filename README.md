@@ -12,9 +12,9 @@ Here's a list of my projects, classified as categories:
 ## Web-based projects
  - "How many COVID-19 cases in Malaysia today?" (https://github.com/weareblahs/covidcases)
  - Straightforward page that shows only the COVID-19 cases in Malaysia. Updated through GitHub Actions, including daily auto static page updates and social media updates on Twitter/X ([@MYCOVIDCasesBot](https://twitter.com/MYCOVIDCasesBot)) and Mastodon ([@myccbot@botsin.space](https://botsin.space/@myccbot), data incomplete)
- - Movie Ticketing System (https://github.com/weareblahs/PHPProject)
+ - Movie Ticketing System (https://github.com/weareblahs/PHPProject) (Final version)
    - Originally a school project, this is a PHP-based online movie ticketing system with QR validation and management system
- - "The weird world of physical home entertainment: an interactive audio-visual experience" (also known as that time before everyone switches to Netflix)" (https://github.com/weareblahs/whyshouldwebuythegolddisc)
+ - "The weird world of physical home entertainment: an interactive audio-visual experience" (also known as that time before everyone switches to Netflix)" (https://github.com/weareblahs/whyshouldwebuythegolddisc) (Final version)
    - (also) originally for a school project, this is an interactive article about physical home entertainment / home video
  - Untitled Music Streaming Thing (https://github.com/weareblahs/UntitledMusicStreamingThing)
    - Also a school project, this is a music player that plays music from Spotify and your own files uploaded to a local server
@@ -25,7 +25,7 @@ Here's a list of my projects, classified as categories:
    - Do note that after each script is made, I just put it there and no changes will be made. ~~I am not responsible for any damages or unknown instabilities happening to your computer, however the only thing I know is that these code is made under a virus-free environment~~
  - ikeatoys (https://github.com/weareblahs/ikeatoys)
    - Stock checker for IKEA Toys in Malaysia. Originally ``BLÅHAJ?``.
- - Freeview (https://github.com/weareblahs/freeview)
+ - Freeview (https://github.com/weareblahs/freeview) (No longer updated)
    - Rebuilding the MYTV Broadcasting experience on your smart TV
 ## Other
  - Faster Intel Graphics Driver Downloads (https://github.com/weareblahs/figdd)
