@@ -18,6 +18,8 @@ Here's a list of my projects, classified as categories:
    - (also) originally for a school project, this is an interactive article about physical home entertainment / home video
  - Untitled Music Streaming Thing (https://github.com/weareblahs/UntitledMusicStreamingThing)
    - Also a school project, this is a music player that plays music from Spotify and your own files uploaded to a local server
+ - Leetvigator (https://github.com/weareblahs/leetvigator)
+   - Easy-to-use navigator that lets you go to a specific LeetCode question via question number
 
 ## Just for fun
  - Scripts for Fun (https://github.com/weareblahs/scripts4fun)
