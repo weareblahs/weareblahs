@@ -5,6 +5,8 @@ Known facts: I'm Tan. Currently studying in Forward College - where before this,
 
 Right now, I usually use the MERN Stack (MongoDB / Express.js / React / Node.js) for most projects. Previously have experience on vanilla JavaScript, vanilla HTML / CSS, Windows Batch script, Python (for simple command-line stuff (see archived project, WSAUtilities)) and the LAMP stack (mainly MySQL and PHP).
 
+An interactive portfolio can be seen on my personal site, which is [https://ntyx.dev](https://ntyx.dev).
+
 (I also made YouTube videos that isn't regarding stuffs about programming, but other stuffs. Maybe take a look at it [here](https://www.youtube.com/c/OogaChakaOogaOoga)?)  
 
 # Projects
