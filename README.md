@@ -25,7 +25,7 @@ See the "Repository" section for other non-mantained (which might update anytime
  - bus? (https://github.com/weareblahs/bus) `React / Node.js / HeroUI (NextUI)`
    - Live update for Malaysian public transport providers via the data.gov.my GTFS API
  - "How many COVID-19 cases in Malaysia today?" (https://github.com/weareblahs/covidcases) `Vanilla HTML / Vanilla CSS / Bash script / Python`
- - Straightforward page that shows only the COVID-19 cases in Malaysia. Updated through GitHub Actions, including daily auto static page updates and social media updates on Twitter/X ([@MYCOVIDCasesBot](https://twitter.com/MYCOVIDCasesBot)) and Mastodon ([@myccbot@botsin.space](https://botsin.space/@myccbot), data incomplete)
+   - Straightforward page that shows only the COVID-19 cases in Malaysia. Updated through GitHub Actions, including daily auto static page updates and social media updates on Twitter/X ([@MYCOVIDCasesBot](https://twitter.com/MYCOVIDCasesBot)) and Mastodon ([@myccbot@botsin.space](https://botsin.space/@myccbot), data incomplete)
 
 ## Just for fun
  - Scripts for Fun (https://github.com/weareblahs/scripts4fun) `Windows Batch / Linux Bash / Python / HTML`
@@ -36,5 +36,7 @@ See the "Repository" section for other non-mantained (which might update anytime
 
 # Contact me?
 And yes, I'm a person who didn't uses too much social networking apps for chatting. There you go:  
-Twitter: ThisIsTYX  
+
+_Please Refer to account info for social accounts._
+
 Email: tanyuxuan2005@gmail.com
