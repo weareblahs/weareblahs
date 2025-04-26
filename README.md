@@ -26,6 +26,8 @@ See the "Repository" section for other non-mantained (which might update anytime
    - Live update for Malaysian public transport providers via the data.gov.my GTFS API
  - "How many COVID-19 cases in Malaysia today?" (https://github.com/weareblahs/covidcases) `Vanilla HTML / Vanilla CSS / Bash script / Python`
    - Straightforward page that shows only the COVID-19 cases in Malaysia. Updated through GitHub Actions, including daily auto static page updates and social media updates on Twitter/X ([@MYCOVIDCasesBot](https://twitter.com/MYCOVIDCasesBot)) and Mastodon ([@myccbot@botsin.space](https://botsin.space/@myccbot), data incomplete)
+  - Penang District Finder (https://github.com/weareblahs/PenangDistrictFinder) `React / Vanilla JavaScript / Tailwind CSS`
+    - Simple web-based app to find districts of Penang, Malaysia based on the current location or given address
 
 ## Just for fun
  - Scripts for Fun (https://github.com/weareblahs/scripts4fun) `Windows Batch / Linux Bash / Python / HTML`
