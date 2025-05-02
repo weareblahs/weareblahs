@@ -22,7 +22,7 @@ See the "Repository" section for other non-mantained (which might update anytime
    - Also a school project, this is a music player that plays music from Spotify and your own files uploaded to a local server
  - Leetvigator (https://github.com/weareblahs/leetvigator) `React / Bootstrap`
    - Easy-to-use navigator that lets you go to a specific LeetCode question via question number
- - bus? (https://github.com/weareblahs/bus) `React / Node.js / HeroUI (NextUI)`
+ - bus? (https://github.com/weareblahs/bus)  `React / Node.js / Tailwind CSS (v2)` `React / Node.js / HeroUI (NextUI) (v1)`
    - Live update for Malaysian public transport providers via the data.gov.my GTFS API
  - "How many COVID-19 cases in Malaysia today?" (https://github.com/weareblahs/covidcases) `Node.js / Vanilla CSS / React` `Vanilla HTML / Vanilla CSS / Bash script / Python (former)`
    - Straightforward page that shows only the COVID-19 cases in Malaysia. Updated through GitHub Actions, including daily auto static page updates and social media updates on Twitter/X ([@MYCOVIDCasesBot](https://twitter.com/MYCOVIDCasesBot)) and Mastodon ([@myccbot@botsin.space](https://botsin.space/@myccbot), data incomplete)
