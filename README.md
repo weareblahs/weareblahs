@@ -18,15 +18,15 @@ See the "Repository" section for other non-mantained (which might update anytime
    - Originally a school project, this is a PHP-based online movie ticketing system with QR validation and management system
  - "The weird world of physical home entertainment: an interactive audio-visual experience" (also known as that time before everyone switches to Netflix)" (https://github.com/weareblahs/whyshouldwebuythegolddisc) (Final version) `HTML / Bootstrap / vanilla JavaScript / GSAP`
    - (also) originally for a school project, this is an interactive article about physical home entertainment / home video
- - Untitled Music Streaming Thing (https://github.com/weareblahs/UntitledMusicStreamingThing) `React / MongoDB / Node.js / NextUI`
+ - Untitled Music Streaming Thing (https://github.com/weareblahs/UntitledMusicStreamingThing) `React / MongoDB / Node.js / HeroUI (NextUI)`
    - Also a school project, this is a music player that plays music from Spotify and your own files uploaded to a local server
  - Leetvigator (https://github.com/weareblahs/leetvigator) `React / Bootstrap`
    - Easy-to-use navigator that lets you go to a specific LeetCode question via question number
- - bus? (https://github.com/weareblahs/bus)  `React / Node.js / Tailwind CSS (v2)` `React / Node.js / HeroUI (NextUI) (v1)`
+ - bus? (https://github.com/weareblahs/bus)  `React / Node.js / Tailwind CSS with Headless UI (v2)` `React / Node.js / HeroUI (NextUI) (v1)`
    - Live update for Malaysian public transport providers via the data.gov.my GTFS API
  - "How many COVID-19 cases in Malaysia today?" (https://github.com/weareblahs/covidcases) `Node.js / Vanilla CSS / React` `Vanilla HTML / Vanilla CSS / Bash script / Python (former)`
    - Straightforward page that shows only the COVID-19 cases in Malaysia. Updated through GitHub Actions, including daily auto static page updates and social media updates on Twitter/X ([@MYCOVIDCasesBot](https://twitter.com/MYCOVIDCasesBot)) and Mastodon ([@myccbot@botsin.space](https://botsin.space/@myccbot), data incomplete)
-  - Penang District Finder (https://github.com/weareblahs/PenangDistrictFinder) `React / Vanilla JavaScript / Tailwind CSS`
+  - Penang District Finder (https://github.com/weareblahs/PenangDistrictFinder) `React / Vanilla JavaScript / Tailwind CSS with Headless UI`
     - Simple web-based app to find districts of Penang, Malaysia based on the current location or given address
 
 ## Just for fun
