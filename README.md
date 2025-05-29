@@ -28,6 +28,8 @@ See the "Repository" section for other non-mantained (which might update anytime
    - Straightforward page that shows only the COVID-19 cases in Malaysia. Updated through GitHub Actions, including daily auto static page updates and social media updates on Twitter/X ([@MYCOVIDCasesBot](https://twitter.com/MYCOVIDCasesBot)) and Mastodon ([@myccbot@botsin.space](https://botsin.space/@myccbot), data incomplete)
   - Penang District Finder (https://github.com/weareblahs/PenangDistrictFinder) `React / Vanilla JavaScript / Tailwind CSS with Headless UI`
     - Simple web-based app to find districts of Penang, Malaysia based on the current location or given address
+  - Comically Large Thermometer (https://github.com/weareblahs/comically_large_thermometer) `React / Bootstrap`
+    - No-nonsense weather checker from METMalaysia's data, calculated from an average of ~350+ locations in Malaysia
 
 ## Just for fun
  - Scripts for Fun (https://github.com/weareblahs/scripts4fun) `Windows Batch / Linux Bash / Python / HTML`
