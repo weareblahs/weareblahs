@@ -30,6 +30,8 @@ See the "Repository" section for other non-mantained (which might update anytime
     - Simple web-based app to find districts of Penang, Malaysia based on the current location or given address
   - Comically Large Thermometer (https://github.com/weareblahs/comically_large_thermometer) `React / Bootstrap`
     - No-nonsense weather checker from METMalaysia's data, calculated from an average of ~350+ locations in Malaysia
+  - Guess the Random Wikipedia Article (https://github.com/weareblahs/wiki)`React / Tailwind CSS`
+    - Web-based guessing game for guessing a random Wikipedia article through Wikipedia's `Special:Random` page, which its data is retrieved through Wikipedia's API.
 
 ## Just for fun
  - Scripts for Fun (https://github.com/weareblahs/scripts4fun) `Windows Batch / Linux Bash / Python / HTML`
